@@ -1,0 +1,3 @@
+TypeID	列1	子类型	模型资源	描述	速度
+TID	Name	Class	Resource	Description	Speed
+1	战士	Warrior	Warrior		100
